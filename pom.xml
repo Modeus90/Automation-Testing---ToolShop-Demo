@@ -40,8 +40,8 @@
         <!-- Selenium DevTools (CDP) -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-devtools-v133</artifactId>
-            <version>4.29.0</version>
+            <artifactId>selenium-devtools-v134</artifactId>
+            <version>4.12.0</version>
         </dependency>
 
         <!-- Logging -->
